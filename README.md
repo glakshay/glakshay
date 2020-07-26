@@ -17,7 +17,7 @@ I was prior working as a Researcher for TKU University in Taiwan while I was pur
 
 🕵️‍♂️ <strong>Area of Interest</strong></strong>:
 
-- Automation, robotics systems, SLAM, perception, machine, and deep learning, computer vision, non-linear control systems, mechatronics system and hardware-software integration.
+- Automation, robotics systems, SLAM, perception, machine, and deep learning, computer vision, non-linear control, mechatronics system and hardware-software integration.
 
 Through academic coursework and personal projects, I have a solid understanding of mobile robotics, trajectory control systems, dynamical systems, path planning, collision avoidance, kinematics, localization, electrical engineering, artificial intelligence, deep learning, soft robotics, computer vision, and algorithm optimization.
 
