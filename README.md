@@ -6,7 +6,6 @@ I am <strong>Lakshay Gopalka</strong>, currently pursuing Masters in <a href="ht
 - Software development, writing code, developing laser patterns, CO2 laser testing on various specimens like bones, enamel for medical applications. 
 - Resaerching on soft robotics in the <a href="https://nemitzroboticsgroup.com">Nemitz Robotics Group</a>
 - I am also working in the Perception and computer vision team for SubTerreanian DARPA challenge.
-- Find my Resume <a href="/Lakshay_CV.pdf" target="_blank">here</a>
 
 👨‍💻 <strong>My recent work involves</strong></strong></strong>: 
 - Using novel deep learning methods with robotics using C++/ Python for industrial manipulator for various grasping operations in task space. 
@@ -28,6 +27,7 @@ Through academic coursework and personal projects, I have a solid understanding 
 
 - Tools: SolidWorks, Ansys, Mission Planner, LabVIEW, FluidSIM, ROS, Gazebo, Rviz, MoveIt Pixhawk, MultiSim, Linux, PLC, Motion Capture system, Arduino, Git
 
+
 <h1> 📫 How to reach me: </h1>
 You can connect with me on following platforms:
 <br> 
@@ -43,6 +43,9 @@ You can connect with me on following platforms:
   <img align="left" alt="Reddit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/youtube.svg" />
 </a>
 <br>
+
+<br>
+<strong>Find my Resume <a href="/Lakshay_CV.pdf" target="_blank">here</a></strong>
 
 <!--
 **glakshay/glakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
