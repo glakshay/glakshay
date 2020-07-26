@@ -1,11 +1,12 @@
 <h1> 👋 Hi there </h1>
 
 I am <strong>Lakshay Gopalka</strong>, currently pursuing Masters in <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics engineering</a> student at WPI and currently a software intern at Massachusetts Biomedical Initiatives. 
-
+  
 🔭 <strong>I’m currently working on</strong></strong></strong></strong>: 
 - Software development, writing code, developing laser patterns, CO2 laser testing on various specimens like bones, enamel for medical applications. 
 - Resaerching on soft robotics in the <a href="https://nemitzroboticsgroup.com">Nemitz Robotics Group</a>
 - I am also working in the Perception and computer vision team for SubTerreanian DARPA challenge.
+- Find my Resume <a href="/Lakshay_CV.pdf" target="_blank">here</a>
 
 👨‍💻 <strong>My recent work involves</strong></strong></strong>: 
 - Using novel deep learning methods with robotics using C++/ Python for industrial manipulator for various grasping operations in task space. 
