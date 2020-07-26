@@ -4,7 +4,7 @@ I am <strong>Lakshay Gopalka</strong>, currently pursuing Masters in <a href="ht
   
 🔭 <strong>I’m currently working on</strong></strong></strong></strong>: 
 - Software development, writing code, developing laser patterns, CO2 laser testing on various specimens like bones, enamel for medical applications. 
-- Resaerching on soft robotics in the <a href="https://nemitzroboticsgroup.com">Nemitz Robotics Group</a>
+- Researching on soft robotics using novel techniques in Fluidics & Magenetism in the <a href="https://nemitzroboticsgroup.com">Nemitz Robotics Group</a>
 - I am also working in the Perception and computer vision team for SubTerreanian DARPA challenge.
 
 👨‍💻 <strong>My recent work involves</strong></strong></strong>: 
