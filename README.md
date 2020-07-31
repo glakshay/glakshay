@@ -47,6 +47,8 @@ You can connect with me on following platforms:
 <br>
 <strong>Find my Resume <a href="/Lakshay_CV.pdf" target="_blank">here</a></strong>
 
+![Profile views](https://gpvc.arturio.dev/glakshay) 
+
 <!--
 **glakshay/glakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
