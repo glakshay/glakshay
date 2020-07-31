@@ -45,7 +45,7 @@ You can connect with me on following platforms:
 <br>
 
 <br>
-<strong>Find my Resume <a href="/Lakshay_CV.pdf" target="_blank">here</a></strong>
+<strong>Find my Resume <a href="/LAKSHAY_tex.pdf" target="_blank">here</a></strong>
 
 ![Profile views](https://gpvc.arturio.dev/glakshay) 
 
@@ -62,4 +62,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=glakshay&show_icons=true)
 -->
