@@ -45,7 +45,7 @@ You can connect with me on following platforms:
 <br>
 
 <br>
-<strong>Find my Resume <a href="/LAKSHAY_tex.pdf" target="_blank">here</a></strong>
+<strong>Find my Resume <a href="https://drive.google.com/file/d/1gPj3E_Uor90aAaJNdystO7WQ0l76fjBP/view?usp=sharing" target="_blank">here</a></strong>
 
 ![Profile views](https://gpvc.arturio.dev/glakshay) 
 
