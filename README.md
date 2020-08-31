@@ -1,6 +1,6 @@
 <h1> 👋 Hi there </h1>
 
-I am <strong>Lakshay Gopalka</strong>, currently pursuing Masters in <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics engineering</a> student at WPI and incoming Robotics and AI intern At Siemens.currently a software intern at Massachusetts Biomedical Initiatives. 
+I am <strong>Lakshay Gopalka</strong>, currently pursuing Masters in <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics engineering</a> student at WPI and incoming Robotics and AI intern At Siemens.
   
 🔭 <strong>I’m currently working on</strong></strong></strong></strong>: 
 - COmputer Vision and OpenCV
