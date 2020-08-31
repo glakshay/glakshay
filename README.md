@@ -1,11 +1,10 @@
 <h1> 👋 Hi there </h1>
 
-I am <strong>Lakshay Gopalka</strong>, currently pursuing Masters in <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics engineering</a> student at WPI and currently a software intern at Massachusetts Biomedical Initiatives. 
+I am <strong>Lakshay Gopalka</strong>, currently pursuing Masters in <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics engineering</a> student at WPI and incoming Robotics and AI intern At Siemens.currently a software intern at Massachusetts Biomedical Initiatives. 
   
 🔭 <strong>I’m currently working on</strong></strong></strong></strong>: 
-- Software development, writing code, developing laser patterns, CO2 laser testing on various specimens like bones, enamel for medical applications. 
+- COmputer Vision and OpenCV
 - Researching on soft robotics using novel techniques in Fluidics & Magenetism in the <a href="https://nemitzroboticsgroup.com">Nemitz Robotics Group</a>
-- I am also working in the Perception and computer vision team for SubTerreanian DARPA challenge.
 
 👨‍💻 <strong>My recent work involves</strong></strong></strong>: 
 - Using novel deep learning methods with robotics using C++/ Python for industrial manipulator for various grasping operations in task space. 
@@ -13,7 +12,7 @@ I am <strong>Lakshay Gopalka</strong>, currently pursuing Masters in <a href="ht
 - Developing algorithms for robot control, dynamics, point cloud, system modeling and identification, and robot simulation in environments like ROS or MATLAB. 
 - Other works involved using Deep learning to generate audio, haiku using GAN topologies.
 
-I was prior working as a Researcher for TKU University in Taiwan while I was pursuing undergrad in Mechatronics engineering. My work involved developing autonomous control for fixed-wing UAV and using Computer Vision to identify pitch/yaw angles for commercial vehicles. My other internships at firms like ABB, JCB, Robot Components have helped me to apply and develop my skills in multi-disciplinary fields.
+During my summer, I was a Software intern at Massachusetts Biomedical Initiatives where my role involved Software development, writing code, developing laser patterns, CO2 laser testing on various specimens like bones, enamel for medical applications. I was prior working as a Researcher for TKU University in Taiwan while I was pursuing undergrad in Mechatronics engineering. My work involved developing autonomous control for fixed-wing UAV and using Computer Vision to identify pitch/yaw angles for commercial vehicles. My other internships at firms like ABB, JCB, Robot Components have helped me to apply and develop my skills in multi-disciplinary fields.
 
 🕵️‍♂️ <strong>Area of Interest</strong></strong>:
 
