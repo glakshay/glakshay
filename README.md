@@ -3,7 +3,7 @@
 I am <strong>Lakshay Gopalka</strong>, currently pursuing Masters in <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics engineering</a> student at WPI and incoming Robotics and AI intern at Siemens.
   
 🔭 <strong>I’m currently working on</strong></strong></strong></strong>: 
-- COmputer Vision and OpenCV
+- Computer Vision and OpenCV
 - Researching on soft robotics using novel techniques in Fluidics & Magenetism in the <a href="https://nemitzroboticsgroup.com">Nemitz Robotics Group</a>
 
 👨‍💻 <strong>My recent work involves</strong></strong></strong>: 
