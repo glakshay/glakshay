@@ -51,6 +51,7 @@ You can connect with me on following platforms:
 <!--
 **glakshay/glakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -63,4 +64,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=glakshay&show_icons=true)
+
+
+Hello, I am Lakshay, currently pursuing Masters in Robotics engineering student at WPI. I worked as a software intern at Massachusetts Biomedical Initiatives in the summer, 20. My work involved software development, writing code, developing laser patterns, CO2 laser testing on various specimens like bones, enamel for medical applications.
+
+My recent work involved using novel deep learning methods with robotics using C++/ Python for industrial manipulator for various grasping operations in task space. Some projects involved developing algorithms for robot control, dynamics, point cloud, system modeling and identification, and robot simulation in environments like ROS or MATLAB. Other works involved using Deep learning to generate audio, haiku using GAN topologies.
+
+I was prior working as a Researcher for TKU University in Taiwan while I was pursuing undergrad in Mechatronics engineering. My work involved developing autonomous control for fixed-wing UAV and using Computer Vision to identify pitch/yaw angles for commercial vehicles. My other internships at firms like ABB, JCB, Robot Components have helped me to apply and develop my skills in multi-disciplinary fields.
+
+Through academic coursework and personal projects, I have a solid understanding of mobile robotics,  trajectory control systems, dynamical systems, path planning, collision avoidance, kinematics, localization, electrical engineering, artificial intelligence, deep learning, soft robotics, computer vision, and algorithm optimization.
+
+Some of the areas of interest include automation, robotics systems, SLAM, perception, machine, and deep learning, computer vision, non-linear control systems, mechatronics system and hardware-software integration.
+
+Seeking full time opportunities in the relevant field to apply my experience and skills to develop, model systems, and to gain new technical knowledge.
+
+Languages: C++, Python, MATLAB, Verilog
+Tools: ROS, Tensorflow, GitHub, Git, Gazebo, Rviz, Simulink, LabView, Pixhawk
 -->
