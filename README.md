@@ -1,10 +1,10 @@
 <h1> 👋 Hi there </h1>
 
-I am <strong>Lakshay Gopalka</strong>, currently pursuing Masters in <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics engineering</a> student at WPI and Robotics and AI intern at Siemens.
+I am <strong>Lakshay Gopalka</strong>, Masters degree student from <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics engineering</a> student at WPI. I worked as Robotics and AI intern at Siemens along with my masters. Currently, I am working for making Autonomous vehicles industry for Motional in component engineering team.
   
-🔭 <strong>I’m currently working on</strong></strong></strong></strong>: 
+🔭 <strong>I worked on</strong></strong></strong></strong>: 
 - Computer Vision and OpenCV
-- Researching on soft robotics using novel techniques in Fluidics & Magenetism in the <a href="https://nemitzroboticsgroup.com">Nemitz Robotics Group</a>
+- Soft robotics using novel techniques in Fluidics & Magenetism in the <a href="https://nemitzroboticsgroup.com">Nemitz Robotics Group</a>
 
 👨‍💻 <strong>My recent work involves</strong></strong></strong>: 
 - Using novel deep learning methods with robotics using C++/ Python for industrial manipulator for various grasping operations in task space. 
