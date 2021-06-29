@@ -1,6 +1,6 @@
 <h1> 👋 Hi there </h1>
 
-I am <strong>Lakshay Gopalka</strong>, Masters degree student from <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics engineering</a> student at WPI. I worked as Robotics and AI intern at Siemens along with my masters. Currently, I am working for making Autonomous vehicles industry for Motional in component engineering team.
+I am <strong>Lakshay Gopalka</strong>, Masters degree student in <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics engineering</a> student at WPI. I worked as Robotics and AI intern at Siemens along with my masters. Currently, I am working for making Autonomous vehicles industry for Motional in component engineering team.
   
 🔭 <strong>I worked on</strong></strong></strong></strong>: 
 - Computer Vision and OpenCV
