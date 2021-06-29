@@ -44,13 +44,13 @@ You can connect with me on following platforms:
 <br>
 
 <br>
-<strong>Find my Resume <a href="https://drive.google.com/file/d/1gPj3E_Uor90aAaJNdystO7WQ0l76fjBP/view?usp=sharing" target="_blank">here</a></strong>
 
 ![Profile views](https://gpvc.arturio.dev/glakshay) 
 
 <!--
 **glakshay/glakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<strong>Find my Resume <a href="https://drive.google.com/file/d/1gPj3E_Uor90aAaJNdystO7WQ0l76fjBP/view?usp=sharing" target="_blank">here</a></strong>
 
 Here are some ideas to get you started:
 
