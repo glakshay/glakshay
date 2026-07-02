@@ -52,4 +52,4 @@ Currently at **Viasat**, architecting and deploying large-scale AI systems acros
 
 <br><br>
 
-**Portfolio:** upcoming soon
+**Portfolio:** [VIMSYZ](http://vimsyz.com/)
