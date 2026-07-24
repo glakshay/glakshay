@@ -2,7 +2,7 @@
 
 Engineer building at the intersection of AI, autonomy, and connected infrastructure. I thrive at the seam between engineering and the customer, where technical decisions have to hold up against real-world constraints and real people.
 
-I build AI-powered products end to end — from the model and agent layer down to the API. I care about shipping things that work in the real world, not just in demos, and I'm most comfortable in environments where one person has to make a lot of decisions quickly.
+I build AI-powered products end to end from the model and agent layer down to the API. I care about shipping things that work in the real world, not just in demos, and I'm most comfortable in environments where one person has to make a lot of decisions quickly.
 
 Currently at **Viasat** building and deploying AI systems at scale across satellite networks in 70+ countries. Previously at **Motional**, **Alert Innovations**, and **Siemens**, with an MS in Robotics Engineering from WPI. I've worked across the full stack of a product at every stage, and I'd rather own a problem completely than hand it off at the edges.
 
