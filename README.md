@@ -14,8 +14,6 @@ Currently at **Viasat** building and deploying AI systems at scale across satell
 - **Full-stack applications** — React frontends, REST and streaming APIs, cloud-deployed backends that hold up under production load
 - **Applied ML** — deep learning, reinforcement learning, perception systems, sensor fusion — shipped into hardware and cloud environments
 
-**0 to 1** — I've taken projects from a whiteboard to a live product, across domains!
-
 ---
 
 <h2>👨‍💻 Few recent things in this repo</h2>
