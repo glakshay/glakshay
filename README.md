@@ -52,4 +52,4 @@ Currently at **Viasat** building and deploying AI systems at scale across satell
 </a>
 <br><br>
 
-**Portfolio:** [VIMSYZ.COM](http://vimsyz.com/)
+**Portfolio:** [vimsyz.com](http://vimsyz.com/)
